@@ -1,0 +1,36 @@
+1.0 Patch Notes
+Yeni Özellikler
+ -Lisans Sistemi – Lisans anahtarları kaydedilebilir, otomatik giriş desteklenir.
+ -Döviz Desteği – USD-TL çevirisiyle anlık fiyat görüntüleme.
+ -Favori Ürünler – Ürünleri favorilere ekleyerek hızlı erişim.
+ -Toplu Arama – Birden fazla ürünü aynı anda arayabilirsiniz.
+ -Önceki Aramalar – Arama geçmişine kolayca ulaşabilirsiniz.
+ -Filtreleme – DLC ve Soundtrack filtreleme desteği eklendi.
+
+İyileştirmeler & Güncellemeler
+ -Lisans Kontrolü – Daha güvenilir doğrulama.
+ -Bağlantı Zaman Aşımı – API isteklerine koruma eklendi.
+ -Arayüz İyileştirmeleri – Daha akıcı ve kullanıcı dostu menü.
+ -Güncelleme Sistemi – Otomatik güncelleme desteği.
+    
+Hata Düzeltmeleri
+ -Bağlantı Sorunları – API gecikmeleri ve hata mesajları düzenlendi.
+ -Lisans Kaydetme – Otomatik girişteki çökme sorunu giderildi.
+ -Para Birimi Hatası – Döviz çevirimi düzeltildi.
+ -Dosya Kaydetme – Önceki aramalar artık doğru kaydediliyor.
+
+Yakında 
+ -Uygulama İçi Bug Bildirimi
+ -Daha Fazla Platform Desteği
+ -Gelişmiş Filtreleme Seçenekleri
+
+
+
+
+
+
+
+
+
+
+    
